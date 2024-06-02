@@ -1,0 +1,249 @@
+{
+    "htmlcss": [
+        {
+            "topics": "HTML Elements",
+            "documentation": "https://www.w3schools.com/html/html_elements.asp",
+            "link": "https://www.youtube.com/watch?v=BsDoLVMnmZs&t=3215s"
+        },
+        {
+            "topics": "HTML Attributes",
+            "documentation": "https://www.w3schools.com/html/html_attributes.asp",
+            "link": "https://www.youtube.com/watch?v=BsDoLVMnmZs&t=3215s"
+        },
+        {
+            "topics": "HTML Headings",
+            "documentation": "https://www.w3schools.com/html/html_headings.asp",
+            "link": "https://www.youtube.com/watch?v=BsDoLVMnmZs&t=3215s"
+        },
+        {
+            "topics": "HTML Paragraphs",
+            "documentation": "https://www.w3schools.com/html/html_paragraphs.asp",
+            "link": "https://www.youtube.com/watch?v=BsDoLVMnmZs&t=3215s"
+        },
+        {
+            "topics": "HTML Styles",
+            "documentation": "https://www.w3schools.com/html/html_styles.asp",
+            "link": "https://www.youtube.com/watch?v=BsDoLVMnmZs&t=3215s"
+        },
+        {
+            "topics": "CSS Comments",
+            "documentation": "https://www.w3schools.com/css/css_comments.asp",
+            "link": "https://www.youtube.com/watch?v=Edsxf_NBFrw&t=11s"
+        },
+        {
+            "topics": "CSS Colors",
+            "documentation": "https://www.w3schools.com/css/css_colors.asp",
+            "link": "https://www.youtube.com/watch?v=Edsxf_NBFrw&t=11s"
+        },
+        {
+            "topics": "CSS Backgrounds",
+            "documentation": "https://www.w3schools.com/css/css_background.asp",
+            "link": "https://www.youtube.com/watch?v=Edsxf_NBFrw&t=11s"
+        },
+        {
+            "topics": "CSS Margins",
+            "documentation": "https://www.w3schools.com/css/css_margin.asp",
+            "link": "https://www.youtube.com/watch?v=Edsxf_NBFrw&t=11s"
+        },
+        {
+            "topics": "CSS Padding",
+            "documentation": "https://www.w3schools.com/css/css_padding.asp",
+            "link": "https://www.youtube.com/watch?v=Edsxf_NBFrw&t=11s"
+        }
+    ],
+    "js": [
+        {
+            "topics": "Functions",
+            "documentation": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions",
+            "link": "https://www.youtube.com/watch?v=a_gwOwkbhZ0&t=736s"
+        },
+        {
+            "topics": "Template literals",
+            "documentation": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals",
+            "link": "https://www.youtube.com/watch?v=Qcph3GB1JFs&t=1s"
+        },
+        {
+            "topics": "Destructuring",
+            "documentation": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment",
+            "link": "https://www.youtube.com/watch?v=_BsE5kmJk6Q"
+        },
+        {
+            "topics": "Spread Operator",
+            "documentation": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax",
+            "link": "https://www.youtube.com/watch?v=_BsE5kmJk6Q"
+        },
+        {
+            "topics": "Ternary Operators",
+            "documentation": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_operator",
+            "link": "https://www.youtube.com/watch?v=na0MVIomjmk"
+        }
+    ],
+    "es6": [
+        {
+            "topics": "const and let",
+            "documentation": "https://www.freecodecamp.org/news/write-less-do-more-with-javascript-es6-5fd4a8e50ee2/",
+            "link": "https://www.youtube.com/watch?v=--Vh17ocC_s&t=8s"
+        },
+        {
+            "topics": "Arrow functions",
+            "documentation": "https://www.freecodecamp.org/news/write-less-do-more-with-javascript-es6-5fd4a8e50ee2/",
+            "link": "https://www.youtube.com/watch?v=y-boXLLwIHQ-"
+        },
+        {
+            "topics": "Template Literals",
+            "documentation": "https://www.freecodecamp.org/news/write-less-do-more-with-javascript-es6-5fd4a8e50ee2/",
+            "link": "https://www.youtube.com/watch?v=Qcph3GB1JFs&t=390s"
+        },
+        {
+            "topics": "Default parameters",
+            "documentation": "https://www.freecodecamp.org/news/write-less-do-more-with-javascript-es6-5fd4a8e50ee2/",
+            "link": "https://www.youtube.com/watch?v=aPmAzOXUVYw&t=523s"
+        },
+        {
+            "topics": "Array and object destructing",
+            "documentation": "https://www.freecodecamp.org/news/write-less-do-more-with-javascript-es6-5fd4a8e50ee2/",
+            "link": "https://www.youtube.com/watch?v=QANG6A1-zkQ"
+        },
+        {
+            "topics": "Import and export",
+            "documentation": "https://www.freecodecamp.org/news/write-less-do-more-with-javascript-es6-5fd4a8e50ee2/",
+            "link": "https://www.youtube.com/watch?v=b7JJCGXlACM"
+        }
+    ],
+    "react": [
+        {
+            "topics": "JSX",
+            "documentation": "https://legacy.reactjs.org/docs/introducing-jsx.html",
+            "link": "https://www.youtube.com/watch?v=p9m_v9OxfAM"
+        },
+        {
+            "topics": "Components",
+            "documentation": "https://legacy.reactjs.org/docs/components-and-props.html",
+            "link": "https://www.youtube.com/watch?v=YcXVT2udeu8"
+        },
+        {
+            "topics": "Props",
+            "documentation": "https://legacy.reactjs.org/docs/components-and-props.html",
+            "link": "https://www.youtube.com/watch?v=HRhJVGjIraE"
+        },
+        {
+            "topics": "State",
+            "documentation": "https://legacy.reactjs.org/docs/state-and-lifecycle.html",
+            "link": "https://www.youtube.com/watch?v=w2zdX_onGig"
+        },
+        {
+            "topics": "Hooks",
+            "documentation": "https://legacy.reactjs.org/docs/hooks-intro.html",
+            "link": "https://www.youtube.com/watch?v=SS1I7m-G2kk"
+        },
+        {
+            "topics": "Function Components",
+            "documentation": "https://www.w3schools.com/react/react_components.asp",
+            "link": "https://www.youtube.com/watch?v=ZjoCQTxC5Rg"
+        },
+        {
+            "topics": "Context API",
+            "documentation": "https://legacy.reactjs.org/docs/context.html",
+            "link": "https://www.youtube.com/watch?v=EynAnD8nDfc"
+        },
+        {
+            "topics": "Virtual DOM",
+            "documentation": "https://legacy.reactjs.org/docs/faq-internals.html",
+            "link": "https://www.youtube.com/watch?v=MPCVGFvgVEQ"
+        }
+    ],
+    "nodejs": [
+        {
+            "topics": "Asynchronous",
+            "documentation": "https://www.geeksforgeeks.org/how-to-write-asynchronous-function-for-node-js/",
+            "link": "https://www.youtube.com/watch?v=GVbZrBYkX1g"
+        },
+        {
+            "topics": "Modules",
+            "documentation": "https://www.w3schools.com/nodejs/nodejs_modules.asp",
+            "link": "https://www.youtube.com/watch?v=FSRo41TaHFU"
+        },
+        {
+            "topics": "Callbacks",
+            "documentation": "https://www.geeksforgeeks.org/node-js-callback-concept/",
+            "link": "https://www.youtube.com/watch?v=z03tYranyWs"
+        },
+        {
+            "topics": "Node package manager",
+            "documentation": "https://www.npmjs.com/",
+            "link": "https://www.youtube.com/watch?v=YFfCVOm63oo"
+        },
+        {
+            "topics": "Single thread",
+            "documentation": "https://www.geeksforgeeks.org/why-node-js-is-a-single-threaded-language/",
+            "link": "https://www.youtube.com/watch?v=mGVFltBxLK"
+        },
+        {
+            "topics": "Express.js",
+            "documentation": "https://www.npmjs.com/package/express",
+            "link": "https://www.youtube.com/watch?v=N2-FyBBxOZA"
+        },
+        {
+            "topics": "Promises and async/await",
+            "documentation": "https://www.w3schools.com/js/js_async.asp",
+            "link": "https://www.youtube.com/watch?v=Jkv3co2SRtE"
+        },
+        {
+            "topics": "Middleware",
+            "documentation": "https://www.geeksforgeeks.org/middleware-in-express-js/",
+            "link": "https://www.youtube.com/watch?v=6Spfry-_fAY"
+        },
+        {
+            "topics": "WebSocket Communication",
+            "documentation": "https://socket.io/",
+            "link": "https://www.youtube.com/watch?v=UUddpbgPEJM"
+        }
+    ],
+    "mongodb": [
+        {
+            "topics": "Creating a Database",
+            "documentation": "https://www.w3schools.com/mongodb/mongodb_mongosh_create_database.php",
+            "link": "https://www.youtube.com/watch?v=bJSj1a84I20"
+        },
+        {
+            "topics": "Deleting a database",
+            "documentation": "https://www.w3schools.com/mongodb/mongodb_mongosh_delete.php",
+            "link": "https://www.youtube.com/watch?v=bJSj1a84I20"
+        },
+        {
+            "topics": "Creating a Collection",
+            "documentation": "https: //www.w3schools.com/mongodb/mongodb_mongosh_create_collection.php",
+            "link": "https://www.youtube.com/watch?v=bJSj1a84I20"
+        },
+        {
+            "topics": "Inserting Data",
+            "documentation": "https://www.w3schools.com/mongodb/mongodb_mongosh_insert.php",
+            "link": "https://www.youtube.com/watch?v=bJSj1a84I20"
+        },
+        {
+            "topics": "Updating documents",
+            "documentation": "https://www.w3schools.com/mongodb/mongodb_mongosh_update.php",
+            "link": "https://www.youtube.com/watch?v=bJSj1a84I20"
+        },
+        {
+            "topics": "Removing a document",
+            "documentation": "https://www.w3schools.com/mongodb/mongodb_mongosh_delete.php",
+            "link": "https://www.youtube.com/watch?v=bJSj1a84I20"
+        },
+        {
+            "topics": "Removing a collection",
+            "documentation": "https://www.geeksforgeeks.org/mongodb-remove-method-db-collection-remove/",
+            "link": "https://www.youtube.com/watch?v=bJSj1a84I20"
+        },
+        {
+            "topics": "Dropping a collection",
+            "documentation": "https://www.geeksforgeeks.org/mongodb-drop-collection/",
+            "link": "https://www.youtube.com/watch?v=bJSj1a84I20"
+        },
+        {
+            "topics": "Sort Method",
+            "documentation": "https://www.geeksforgeeks.org/mongodb-sort-method/",
+            "link": "https://www.youtube.com/watch?v=bJSj1a84I20"
+        }
+    ]
+}
