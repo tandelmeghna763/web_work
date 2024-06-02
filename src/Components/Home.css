@@ -1,0 +1,11 @@
+.img {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.home {
+    height: 100vh;
+    background-color: beige;
+    margin-top: 0px;
+}
